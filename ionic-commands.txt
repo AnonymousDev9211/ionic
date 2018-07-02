@@ -1,0 +1,23 @@
+Enable core
+https://stackoverflow.com/questions/27504256/mvc-web-api-no-access-control-allow-origin-header-is-present-on-the-requested
+
+
+NODE_TLS_REJECT_UNAUTHORIZED='0'
+
+npm config set strict-ssl=false
+
+npm config set NODE_TLS_REJECT_UNAUTHORIZED=0
+
+anonymousdev9211@gmail.com
+
+
+SETLOCAL
+SET npm_config_strict-ssl=false
+npm install npm -g --ca=null
+npm --version
+ENDLOCAL
+
+https://blog.npmjs.org/post/78085451721/npms-self-signed-certificate-is-no-more
+https://stapp.space/fight-with-2/
+
+https://www.c-sharpcorner.com/article/uploading-ionic-app-on-ionic-view-in-ionic-pro/

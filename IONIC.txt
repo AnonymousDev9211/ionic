@@ -1,0 +1,21 @@
+1. Fetch data in home page -- 4hrs
+2. Fectch categories	   -- 2hrs
+3. Fetch Profile	   -- 3hrs
+4. Capture Video	   -- 8hrs		
+5. Save Video Firebase     -- 8hrs
+6. Save Data  Firebase     -- 8hrs
+7. Theme		   -- 8hrs
+8. Publish to Simulator    -- 8hrs
+9. Publish to Apple Store  -- 8hrs
+
+
+
+https://ionicframework.com/docs/native/streaming-media/
+https://ionicframework.com/docs/native/video-player/
+https://www.techiediaries.com/ionic-video-playing/
+https://devdactic.com/images-videos-fullscreen-ionic/
+http://devdactic.com/capture-and-store-videos-ionic/
+
+
+<video style="width: 100%;height: 200px;" src = "{{video_link}}#t=0.1" controls >
+</video>
