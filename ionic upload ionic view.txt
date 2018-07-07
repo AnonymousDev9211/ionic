@@ -1,0 +1,7 @@
+ionic login
+ionic link --pro-id f8ef1745
+git clone git@git.ionicjs.com:anonymousdev9211/chatapp.git --origin=ionic
+git remote add origin https://github.com/AnonymousDev9211/ionic
+git add .
+git commit -m "first change"
+git push ionic master
