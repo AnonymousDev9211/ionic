@@ -1,0 +1,16 @@
+categories
+upload
+camera
+profile
+language
+videos
+
+IONIC DEVELOPMENT COMMANDS
+
+1. GENERATE NEW PAGE: ionic generate page <NAME>
+
+2. GENERATE PROVIDER/SERVICE: ionic generate provider <PROVIDER>
+
+3. npm install --save @ionic/storage //for ionic Storage reference
+
+4. npm install firebase --save //fir firebase
